@@ -1,1 +1,0 @@
-# foundry-defi-stablecoin
